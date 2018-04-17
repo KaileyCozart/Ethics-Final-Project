@@ -63,3 +63,68 @@ body {
     margin-left: .5em;
 }
 
+/* Top Div */
+
+.mainDiv {
+    width: 100%;
+    height: 7.75em;
+    background-image: url('images/Blue_Background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+/* Smaller Divs */
+
+.smallerDiv {
+    width: 50%;
+    height: 7.75em;
+    background-color: grey;
+}
+
+.div2, .div4, .div6 {
+    margin-top: -7.75em;
+    float: right;
+}
+
+.div1 {
+    background-image: url('images/Facebook.png'), url('images/Blue_Background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.div2 {
+    background-image: url('images/Twitter.png'), url('images/Blue_Background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.div3 {
+    background-image: url('images/Snap.png'), url('images/Blue_Background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.div4 {
+    background-image: url('images/Reddit.png'), url('images/Blue_Background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.div5 {
+    background-image: url('images/Insta.png'), url('images/Blue_Background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.div6 {
+    background-image: url('images/Tube.png'), url('images/Blue_Background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
