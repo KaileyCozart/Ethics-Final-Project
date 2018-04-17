@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+/* iPhone X Ratio */
+
+.phoneFrame {
+    height: 682.5px;
+    width: 315px;
+    background-color: white;
+    border-radius: 15px;
+    padding-top: 7.5px;
+}
+
+.phoneScreen {
+    background-color: black;
+    height: 672.5px;
+    width: 300px;
+    margin-left: 7.5px;
+    border-radius: 15px;
+}
+
+/* Prior iPhone Ratio
+
+.phoneFrame {
+    height: 640px;
+    width: 360px;
+    background-color: white;
+    border-radius: 15px;
+    padding-top: 50px;
+}
+
+.phoneScreen {
+    background-color: black;
+    height: 580px;
+    width: 345px;
+    margin-left: 7.5px;
+}
+
+*/
