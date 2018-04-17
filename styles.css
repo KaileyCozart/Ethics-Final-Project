@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 
-/* iPhone X Ratio */
+/* iPhone X Ratio 19.5:9 Left-Aligned
 
 .phoneFrame {
     height: 682.5px;
@@ -20,7 +20,9 @@ body {
     border-radius: 15px;
 }
 
-/* Prior iPhone Ratio
+*/
+
+/* Average Phone Ratio 16:9 Left-Aligned
 
 .phoneFrame {
     height: 640px;
@@ -38,3 +40,26 @@ body {
 }
 
 */
+
+/* Average Phone Ratio 16:9 */
+
+.phoneFrame {
+    background-color: white;
+    border-radius: 15px;
+    padding-top: 50px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 35em;
+    width: 19.68em;
+    margin-top: -20em; /* set to a negative number 1/2 of your height */
+    margin-left: -9.84em; /* set to a negative number 1/2 of your width */
+}
+
+.phoneScreen {
+    background-color: black;
+    height: 31em;
+    width: 18.68em;
+    margin-left: .5em;
+}
+
