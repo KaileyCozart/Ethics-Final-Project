@@ -1,0 +1,36 @@
+<?xml version="1.0"?><svg width="372.75" height="372.75" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>wifi logo</title>
+ <defs>
+  <linearGradient xlink:href="#linearGradient3635" id="linearGradient3680" x1="0.5" y1="1.002538" x2="0.5" y2="-0.002538"/>
+  <linearGradient xlink:href="#linearGradient3651" id="linearGradient3678" x1="0.08605" y1="0.107835" x2="0.5" y2="0.5"/>
+  <linearGradient xlink:href="#linearGradient3635" id="linearGradient3676" x1="0.079675" y1="0.004839" x2="0" y2="2.190344"/>
+  <linearGradient xlink:href="#linearGradient3645" id="linearGradient3674" x1="0.5" y1="0.5" x2="0.5" y2="1.001341"/>
+  <linearGradient id="linearGradient3635">
+   <stop stop-color="#0176c6" offset="0" id="stop3637"/>
+   <stop stop-color="#8fd1fe" offset="1" id="stop3639"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3645">
+   <stop stop-color="#016cb3" id="stop3647" offset="0"/>
+   <stop stop-color="#8fd1fe" id="stop3649" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3651">
+   <stop stop-color="#eeeeee" offset="0" id="stop3653"/>
+   <stop stop-color="#cccccf" offset="1" id="stop3655"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g externalResourcesRequired="false" id="layer1">
+   <g externalResourcesRequired="false" id="g6534">
+    <g externalResourcesRequired="false" id="layer1-8"/>
+    <g externalResourcesRequired="false" fill="#0169c9" id="g3848" transform="matrix(0.556673 0 0 0.503627 202.174 427.426)">
+     <path fill="#000000" d="m15.852935,-239.741043c0,26.944183 -21.842607,48.786774 -48.786799,48.786774c-26.94421,0 -48.786793,-21.84259 -48.786793,-48.786774c0,-26.944229 21.842583,-48.786789 48.786793,-48.786789c26.944213,0 48.786799,21.84256 48.786799,48.786789z" id="path3812"/>
+     <path fill="#000000" id="path3814" d="m-22.778412,-577.733643c-88.706238,0 -167.248032,33.722961 -215.5,85.5625l40,61.65625c35.115707,-46.920776 100.545593,-78.46875 175.5,-78.46875c69.397125,0 130.639801,27.062561 167.21875,68.3125l41.46875,-58.53125c-48.658264,-47.848267 -124.050781,-78.53125 -208.6875,-78.53125z"/>
+     <path fill="#000000" id="path3822" d="m-29.903412,-423.452393c-50.456665,0 -96.517197,18.781128 -131.5625,49.6875l33.78125,52.09375c26.406311,-22.235291 60.515198,-35.65625 97.78125,-35.65625c34.983948,0 67.176849,11.814789 92.84375,31.65625l35.84375,-50.625c-34.676788,-29.419922 -79.598114,-47.15625 -128.6875,-47.15625z"/>
+     <path fill="#000000" d="m-23.909603,-730.875061c-116.584064,0 -221.307667,45.127441 -293.437504,116.8125l37.90625,58.40625c53.30072,-61.704102 147.013916,-102.6875 253.781254,-102.6875c105.946163,0 199.072018,40.339539 252.593746,101.25l41.3125,-58.28125c-72.107056,-70.929077 -176.272858,-115.5 -292.156246,-115.5z" id="path3824"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
