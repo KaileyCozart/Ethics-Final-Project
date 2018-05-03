@@ -43,20 +43,43 @@ body {
 
 /* Average Phone Ratio 16:9 Center-Aligned */
 
+body {
+    background-color: white;
+}
+
+.myContainer {
+    margin: 0px auto;
+    display: inline-block;
+    height: 100px;
+    margin-left: 8.25em;
+}
+
 .phoneFrame {
     background-color: black;
     border-radius: 15px;
     padding-top: 50px;
-    position: fixed;
-    top: 50%;
-    left: 50%;
+    float: left;
     height: 35em;
     width: 19.68em;
-    margin-top: -20em;
-    margin-left: -9.84em;
+    border: 1px solid lightgrey;
+    box-shadow: 0px 0px 8px white;
 }
 
-.phoneScreen {
+.phoneFrame1 {
+    margin-top: 2.5em;
+}
+
+.phoneFrame2 {
+    margin-top: 2.5em;
+    margin-left: 20px;
+}
+
+.phoneFrame3 {
+    margin-top: 2.5em;
+    margin-left: 20px;
+}
+
+.phoneScreen1 {
     background-image: url('images/green2.jpg');
     /** background-position: -210px 0px; green2 **/
     /** background-position: 0px 0px; blue2 **/
@@ -65,6 +88,38 @@ body {
     /* background-position: -250px 0px; pink1 */
     /* background-position: -210px 0px; green1 */
     background-position: -210px 0px;
+    background-size: cover;
+    padding-top: 10px;
+    height: 31em;
+    width: 18.68em;
+    margin-left: .5em;
+}
+
+.phoneScreen2 {
+    background-image: url('images/blue2.jpg');
+    /** background-position: -210px 0px; green2 **/
+    /** background-position: 0px 0px; blue2 **/
+    /** background-position: -300px 0px; red1 **/
+    /* background-position: -430px 0px; blue3 */
+    /* background-position: -250px 0px; pink1 */
+    /* background-position: -210px 0px; green1 */
+    background-position: 0px 0px;
+    background-size: cover;
+    padding-top: 10px;
+    height: 31em;
+    width: 18.68em;
+    margin-left: .5em;
+}
+
+.phoneScreen3 {
+    background-image: url('images/red1.jpg');
+    /** background-position: -210px 0px; green2 **/
+    /** background-position: 0px 0px; blue2 **/
+    /** background-position: -300px 0px; red1 **/
+    /* background-position: -430px 0px; blue3 */
+    /* background-position: -250px 0px; pink1 */
+    /* background-position: -210px 0px; green1 */
+    background-position: -300px 0px;
     background-size: cover;
     padding-top: 10px;
     height: 31em;
@@ -212,4 +267,12 @@ h3.bottomDivText {
 
 .icon1 {
     margin-right: 8px;
+}
+
+.blueHover:hover {
+    background-color: rgba(48, 115, 159, 0.50);
+}
+
+.redHover:hover {
+    background-color: rgba(159, 48, 48, 0.50);
 }
