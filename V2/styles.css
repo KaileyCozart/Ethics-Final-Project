@@ -57,12 +57,14 @@ body {
 }
 
 .phoneScreen {
-    background-image: url('images/blue2.jpg');
+    background-image: url('images/green2.jpg');
+    /** background-position: -210px 0px; green2 **/
+    /** background-position: 0px 0px; blue2 **/
+    /** background-position: -300px 0px; red1 **/
     /* background-position: -430px 0px; blue3 */
     /* background-position: -250px 0px; pink1 */
-    /* background-position: -250px 0px; blue2 */
-    /* background-position: 0px 0px; blue2 */
-    background-position: 0px 0px;
+    /* background-position: -210px 0px; green1 */
+    background-position: -210px 0px;
     background-size: cover;
     padding-top: 10px;
     height: 31em;
@@ -81,6 +83,10 @@ body {
     border-bottom: 0px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+}
+
+.topDiv:hover {
+    background-color: rgba(123, 159, 48, .5);
 }
 
 h3.date {
@@ -125,6 +131,10 @@ h6 {
     margin-bottom: 0px;
     border-bottom: 0px;
     background-color: rgba(255, 255, 255, 0.00);
+}
+
+.div1:hover, .div2:hover, .div3:hover, .div4:hover, .div5:hover, .div6:hover {
+    background-color: rgba(123, 159, 48, .5);
 }
 
 .div6 {
@@ -174,6 +184,10 @@ h6 {
     border: 1px solid white;
     margin: 10px;
     border-radius: 5px;
+}
+
+.bottomDiv:hover {
+    background-color: rgba(123, 159, 48, .5);
 }
 
 h3.bottomDivText {
